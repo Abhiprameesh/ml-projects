@@ -35,4 +35,4 @@ This repository contains a collection of simple yet effective machine learning p
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Abhiprameesh/simple-ml-projects.git
+   git clone https://github.com/Abhiprameesh/ml-projects.git
